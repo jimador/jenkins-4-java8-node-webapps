@@ -1,4 +1,4 @@
-# Official Jenkins Docker image tweaked to work with JHipster out of the box
+# Jenkins Docker image (1.642.2) tweaked to work with JHipster out of the box
 
 The Jenkins Continuous Integration and Delivery server.
 
