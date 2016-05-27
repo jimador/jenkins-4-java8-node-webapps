@@ -1,4 +1,4 @@
-# Jenkins Docker image (1.642.2) tweaked with NodeJS and Java 8 tweaked to work with JHipster out of the box
+# Jenkins Docker image (1.642.2) tweaked with tweaked to work with NodeJS and Java 8 webapps out of the box
 
 The Jenkins Continuous Integration and Delivery server.
 
